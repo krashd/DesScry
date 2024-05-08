@@ -49,17 +49,6 @@ class SmartLoopData:
 
 
 
-class RAGHead:
-    nodeType = "rag"
-    signalType = "001"
-    poleNumber = 0
-    cabinetNumber = 0
-    cicNumber = 0
-    ctbCommsChannel = "R1"
-    orderID = 0
-    text = ""
-    x = 5
-
 p1e1 = Node()
 p1e1.signalType = "HD80F"
 p1e1.nodeType = "pdu"
