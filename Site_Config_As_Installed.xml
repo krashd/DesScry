@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='utf-8'?>
+<siteData xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="SiteLayout.xsd">
+  <configType>as_installed</configType>
+  <drawingInformation>
+    <authorName>Dan Brown</authorName>
+    <authorEmail>dan.brown@yunextraffic.com</authorEmail>
+    <drawingNumber>871252221-YU-00-XX-DR-Y-0001 C5</drawingNumber>
+  </drawingInformation>
+  <nodeList>
+    <node>
+      <id>1_E_1</id>
+      <signalType>HD80F</signalType>
+      <nodeType>pdu</nodeType>
+      <serialNumber />
+      <poleNumber>1</poleNumber>
+      <text>PB</text>
+      <nodeSpecificData>
+        <waitPduData>
+          <orientation>0</orientation>
+          <phase>E</phase>
+          <audible>not_fitted</audible>
+          <tactile>not_fitted</tactile>
+          <pushButtonInputName>EPBU1</pushButtonInputName>
+        </waitPduData>
+      </nodeSpecificData>
+    </node>
+  </nodeList>
+</siteData>
